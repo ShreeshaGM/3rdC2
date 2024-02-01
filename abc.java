@@ -1,6 +1,1 @@
-class abc
-{
-    public static void main(String []args){
-    System.out.println("Welcome");
-    }
-}
+LAB 10 GIT FETCH IS GOING TO UPDATE LOCAL REPOSITORY
